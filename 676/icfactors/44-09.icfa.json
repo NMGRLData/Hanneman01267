@@ -1,6 +1,6 @@
 {
     "AX": {
-        "error": 5.9425732364419104e-05,
+        "error": 6.342772976387857e-05,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -82,15 +82,10 @@
                 "exclude": "omit",
                 "record_id": "c-03-J-2388",
                 "uuid": "3d4924ae-e26c-4a58-bca5-7f132ffa227b"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "c-03-J-2389",
-                "uuid": "49b575c1-57a9-42cf-b28b-1f415e919ffb"
             }
         ],
         "reviewed": true,
-        "value": 1.001938164685403
+        "value": 1.0019411396053859
     },
     "CDD": {
         "error": 0.001456113810285447,
